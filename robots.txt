@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://baneedksy.github.io/portal/sitemap.xml
+Sitemap: https://baneedksy.github.io/sitemap.xml
